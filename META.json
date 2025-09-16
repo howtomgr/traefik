@@ -1,0 +1,61 @@
+{
+  "category": "reverse-proxies",
+  "created_date": "2025-09-15T22:48:59.344395",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "Traefik is a free and open-source modern HTTP reverse proxy and load balancer with automatic service discovery. Traefik is a cloud-native edge router that automatically discovers services and provides dynamic configuration, serving as an alternative to HAProxy, nginx Plus, or AWS Application Load Balancer",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/reverse-proxies/traefik",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/reverse-proxies/traefik",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.344420",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "traefik",
+  "repository_url": "https://github.com/howtomgr/traefik",
+  "spec_version": "2.0",
+  "subcategory": "reverse-proxies",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "reverse-proxies",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Traefik Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/reverse-proxies/traefik"
+}
